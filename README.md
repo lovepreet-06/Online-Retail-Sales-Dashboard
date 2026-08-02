@@ -46,12 +46,12 @@ The dataset contains order-level online retail transactions with the following f
 **1. Sales Overview**
 KPI summary cards, revenue trend by month, customer activity by day, quantity by year, revenue by country, orders by month, and revenue by product category.
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](dashboard-overview.png)
 
 **2. Trend Analysis (MTD & YoY)**
 Month-to-date revenue tracking and year-over-year performance comparison to spot growth patterns and seasonality.
 
-![Trend Analysis](screenshots/dashboard-trend-analysis.png)
+![Trend Analysis](dashboard-trend-analysis.png)
 
 ## Tools Used
 
